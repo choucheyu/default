@@ -4,6 +4,12 @@
 
 ## 直接遊玩
 
+穩定版本：
+
+https://rawcdn.githack.com/choucheyu/default/ae67763fb2b72b97a8d4d59bda5a6cad3d0e4c65/math-strike-arena/index.html
+
+分支最新版：
+
 https://raw.githack.com/choucheyu/default/math-strike-arena/math-strike-arena/index.html
 
 首次開啟時，靜態轉譯服務可能顯示來源確認頁；確認後即可進入遊戲。
